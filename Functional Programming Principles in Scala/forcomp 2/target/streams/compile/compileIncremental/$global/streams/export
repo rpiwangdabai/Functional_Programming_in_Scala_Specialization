@@ -1,0 +1,1 @@
+scalac -deprecation -bootclasspath /Users/HaoWang/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar -language:implicitConversions -classpath /Users/HaoWang/Dropbox/Projects/Scala/forcomp 2/target/scala-2.13/classes /Users/HaoWang/Dropbox/Projects/Scala/forcomp 2/src/main/scala/forcomp/Anagrams.scala
