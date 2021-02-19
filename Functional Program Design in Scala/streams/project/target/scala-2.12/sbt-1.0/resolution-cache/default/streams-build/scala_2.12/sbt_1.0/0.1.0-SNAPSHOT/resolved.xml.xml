@@ -4,7 +4,7 @@
 		module="streams-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20210215144316"
+		publication="20210218205832"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
